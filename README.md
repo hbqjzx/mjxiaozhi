@@ -16,7 +16,7 @@ yarn serve
 yarn build
 ```
 ## 小智MJ线上地址
-- [知数据云：MJ接口申请](https://auth.zhishuyun.com/auth/login?inviter_id=b01a5684-a3e4-43d6-a7c1-61105ccf9a8c&redirect=https://data.zhishuyun.com)
+- [知数云：MJ接口申请](https://auth.zhishuyun.com/auth/login?inviter_id=b01a5684-a3e4-43d6-a7c1-61105ccf9a8c&redirect=https://data.zhishuyun.com)
 - [小智同学MJ线上地址](https://mj.lz300.cn/)
 - [github地址](https://github.com/hbqjzx/mjxiaozhi)
 
